@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Thermal Jacket Fitting for Cats & Dogs",
+    "providerName": "WarmPaws Center",
+    "providerEmail": "contact@warmpaws.com",
+    "price": 28,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Customized thermal jackets and winter wear fitting to protect pets from harsh cold weather.",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHBldCUyMGNhcmV8ZW58MHx8MHx8fDA%3D ",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Paw Wax Protection",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "support@cozypets.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 8,
+    "description": "Protective paw wax application to prevent dryness, cracks, and frostbite during winter walks.",
+    "image": "https://plus.unsplash.com/premium_photo-1663040477032-0cb4ee5402bc?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGV0JTIwY2FyZXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Bed Setup Service",
+    "providerName": "PetComfort Hub",
+    "providerEmail": "info@petcomforthub.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Installation and setup of safe heated beds to keep pets warm throughout the winter nights.",
+    "image": "https://images.unsplash.com/photo-1581888475780-27b6b0bc3690?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGV0JTIwY2FyZXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Fur Conditioning Treatment",
+    "providerName": "FluffyCare Spa",
+    "providerEmail": "service@fluffycare.com",
+    "price": 32,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Deep fur conditioning with winter-safe moisturizing formulas to prevent dryness and shedding.",
+    "image": "https://images.unsplash.com/photo-1625321171045-1fea4ac688e9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGV0JTIwY2FyZXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Cold Weather Health Checkup",
+    "providerName": "HealthyPet Clinic",
+    "providerEmail": "clinic@healthypet.com",
+    "price": 55,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Veterinary winter wellness exam including joint check, respiratory review, and cold sensitivity screening.",
+    "image": "https://plus.unsplash.com/premium_photo-1661962785160-458b1a95750b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHBldCUyMGNhcmV8ZW58MHx8MHx8fDA%3D",
+    "category": "Healthcare"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Nutrition & Supplement Plan",
+    "providerName": "PetNutri Experts",
+    "providerEmail": "hello@petnutri.com",
+    "price": 27,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Customized diet and supplement planning to boost immunity and keep pets healthy during cold seasons.",
+    "image": "https://images.unsplash.com/photo-1571151596869-2663a84c1e41?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNhdCUyMGZlZWRpbmd8ZW58MHx8MHx8fDA%3D",
+    "category": "Nutrition"
+  }
+]
