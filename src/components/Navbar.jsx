@@ -6,19 +6,19 @@ const Navbar = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
 
-  // My Profile click handler
+ 
   const handleProfileClick = () => {
     if (user) {
-      navigate("/profile"); // logged in → profile page
+      navigate("/profile"); 
     } else {
-      navigate("/login"); // not logged in → login page
+      navigate("/login");
     }
   };
 
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm">
-        {/* Navbar Start */}
+        
         <div className="navbar-start">
           <div className="dropdown">
             <div
@@ -65,7 +65,7 @@ const Navbar = () => {
 
         {/* Navbar Center */}
         <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
+          <ul className="menu menu-horizontal px-1 font-bold">
             <li>
               <Link to="/home">Home</Link>
             </li>
@@ -92,7 +92,7 @@ const Navbar = () => {
           </ul>
         </div>
 
-        {/* Navbar End */}
+       
         <div className="navbar-end">
           {user ? (
             <button onClick={logout} className="btn btn-error text-white">

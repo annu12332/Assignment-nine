@@ -46,7 +46,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen flex justify-center items-center">
-      <div className="p-6 border rounded shadow w-80 bg-white">
+      <div className="p-6  rounded shadow w-80 bg-blue-100">
         <h2 className="text-2xl font-bold mb-4 text-center">Login</h2>
 
         <input
