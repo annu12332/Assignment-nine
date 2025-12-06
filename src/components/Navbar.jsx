@@ -55,6 +55,9 @@ const Navbar = () => {
               <li>
                 <button onClick={handleProfileClick}>My Profile</button>
               </li>
+              <li>
+                <Link to="/addservices">Add-Services</Link>
+              </li>
             </ul>
           </div>
 
@@ -71,6 +74,9 @@ const Navbar = () => {
             </li>
             <li>
               <Link to="/services">Services</Link>
+            </li>
+            <li>
+              <Link to="/addservices">Add-Services</Link>
             </li>
             <li>
               <button
